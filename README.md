@@ -5,4 +5,4 @@ The removal of the database was necessitated by the presence of sensitive inform
 
 Following May 2022, Google ceased its support for less secure applications, accompanied by certain API modifications that have resulted in the program's impaired functionality. However, the user interface remains unaffected.
 This version uses a multi programs approach, improving performance at the expense of increased RAM usage.
-Version 2 uses threading, resulting in fewer memory consumption for non omptimal performance.
+Version 2 uses threading, resulting in fewer memory consumption for non optimal performance.
